@@ -1,0 +1,20 @@
+services:
+  hugo:
+    build: .
+    image: hugo-dev:local
+    container_name: hugo-dev
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    ports:
+      - "1313:1313"
+    command: hugo server --bind 0.0.0.0 --port 1313 --minify
+
+# To build your image fresh, do:
+# docker compose build --no-cache
+
+# To use hugo interactively, do:
+# docker compose run --rm hugo bash
+
+# Of course, to use as is, and have a live hugo server at 0.0.0.0:1313, do:
+# docker compose up -d
