@@ -192,7 +192,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # yandex = ""
   # fediverse = ""
 
-[rssnext]
+# [rssnext]
   # feedId = ""
   # userId = ""
 

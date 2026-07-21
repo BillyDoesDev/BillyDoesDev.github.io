@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "BillyDoesDev"
+title = ""
 
 [params]
   displayName = "EN"
@@ -19,11 +19,12 @@ title = "BillyDoesDev"
   email = "mdl.dhruba@gmail.com"
   image = "img/pfp.png"
   imageQuality = 96
-  headline = "Waddling through the isles of the internet"
+  headline = "waddlin' through the aisles of the internet"
   bio = "dev | popsicles | sleep"
   links = [
-    { email = "mailto:mdl.dhruba@gmail.com" },
-    { linkedin = "linkedin.com/in/dhrubajyoti-mandal" },
+    # { email = "mailto:mdl.dhruba@gmail.com" },
+    { rss = "/index.xml" },
     { github = "https://github.com/BillyDoesDev" },
     { gitlab = "https://gitlab.com/BillyDoesDev" },
+    { linkedin = "https://linkedin.com/in/dhrubajyoti-mandal" },
   ]
