@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Landing Page on BillyDoesDev</title><link>/</link><description>Recent content in Landing Page on BillyDoesDev</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mdl.dhruba@gmail.com (BillyDoesDev)</managingEditor><webMaster>mdl.dhruba@gmail.com (BillyDoesDev)</webMaster><copyright>© 2026 BillyDoesDev</copyright><lastBuildDate>Mon, 20 Jul 2026 15:49:57 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Demo blog</title><link>/blog/another_blog/</link><pubDate>Mon, 20 Jul 2026 15:49:57 +0000</pubDate><author>mdl.dhruba@gmail.com (BillyDoesDev)</author><guid>/blog/another_blog/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/blog/another_blog/featured.jpg"/></item><item><title>About</title><link>/about/</link><pubDate>Mon, 20 Jul 2026 15:25:34 +0000</pubDate><author>mdl.dhruba@gmail.com (BillyDoesDev)</author><guid>/about/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Landing Page on</title><link>https://BillyDoesDev.github.io/</link><description>Recent content in Landing Page on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mdl.dhruba@gmail.com (BillyDoesDev)</managingEditor><webMaster>mdl.dhruba@gmail.com (BillyDoesDev)</webMaster><copyright>© 2026 BillyDoesDev</copyright><lastBuildDate>Tue, 21 Jul 2026 09:51:06 +0000</lastBuildDate><atom:link href="https://BillyDoesDev.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Demo blog</title><link>https://BillyDoesDev.github.io/blog/another_blog/</link><pubDate>Mon, 20 Jul 2026 15:49:57 +0000</pubDate><author>mdl.dhruba@gmail.com (BillyDoesDev)</author><guid>https://BillyDoesDev.github.io/blog/another_blog/</guid><description>&lt;h2 class="relative group"&gt;Section 1
+ &lt;div id="section-1" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#section-1" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;div class="highlight-wrapper"&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-sh" data-lang="sh"&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;1&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="nb"&gt;declare&lt;/span&gt; &lt;span class="nv"&gt;a&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;2&lt;/span&gt;&lt;span class="cl"&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;a&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p class="foo"&gt;This is a paragraph.&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="auto"
+ alt="Alt text"
+ width="2400"
+ height="1600"
+ src="https://BillyDoesDev.github.io/blog/another_blog/images/sample_hu_8bb02bfeb28b52ea.jpg"
+ srcset="https://BillyDoesDev.github.io/blog/another_blog/images/sample_hu_8bb02bfeb28b52ea.jpg 800w, https://BillyDoesDev.github.io/blog/another_blog/images/sample_hu_3170b602a338ef17.jpg 1280w"
+ sizes="(min-width: 768px) 50vw, 65vw"
+ data-zoom-src="https://BillyDoesDev.github.io/blog/another_blog/images/sample.jpg"&gt;&lt;figcaption&gt;Image caption&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 class="relative group"&gt;Section 2
+ &lt;div id="section-2" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#section-2" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;With Hugo on the other hand, you &lt;em&gt;have&lt;/em&gt; to use GitHub actions. If you’ve never used CI before, this might seem daunting, but Hugo has &lt;a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/" target="_blank" rel="noreferrer"&gt;clear instructions&lt;/a&gt; on how to configure everything. They also provide a template workflow, which you can simply copy over to your repo. It took me about 10 minutes to first deploy the first version of this website.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://BillyDoesDev.github.io/blog/another_blog/featured.jpg"/></item><item><title>About</title><link>https://BillyDoesDev.github.io/about/</link><pubDate>Mon, 20 Jul 2026 15:25:34 +0000</pubDate><author>mdl.dhruba@gmail.com (BillyDoesDev)</author><guid>https://BillyDoesDev.github.io/about/</guid><description>&lt;p&gt;Software engineer? Me? Yeah, I guess xD&lt;/p&gt;</description></item></channel></rss>
